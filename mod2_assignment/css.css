@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+}
+div{
+	float: left;
+	border: 1px solid black;
+	margin-left: 30px;
+	margin-right: 5px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	align-self: center;
+	background-color: grey;
+	width: 30%;
+	height: 200px;
+	position: relative;
+	margin-top: 40px;
+}
+
+p {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background-color: maroon;
+	width: 100px;
+	height: 40px;
+	margin-top: 0px;
+	text-align: center;
+	box-sizing: border-box;
+	padding-top: 10px;
+	color: white;
+
+}
+section{
+	color: white;
+	box-sizing: border-box;
+	padding: 50px 10px;
+}
+
