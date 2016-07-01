@@ -41,7 +41,7 @@ section{
     width: 25%;
   }
   .col-lg-4 {
-    width: 32.33%;
+    width: 33.33%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -90,7 +90,7 @@ section{
     width: 41.66%;
   }
   .col-md-6 {
-    width: 49%;
+    width: 50%;
   }
   .col-md-7 {
     width: 58.33%;
@@ -159,12 +159,11 @@ section{
     border: 1px solid black;
     background-color: grey; 
     position: relative;
-    margin-bottom: 5px;
-    padding: 5px;
-    margin-top: 40px;
-    margin-right: 15px;
-    margin-left:50px;
+    margin: 15px;
+    margin-right: 10px;
+  
 }
+
 
 
 
