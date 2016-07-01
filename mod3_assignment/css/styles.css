@@ -7,7 +7,7 @@ h1{
 	padding: 0;
 	vertical-align: center;
 }
-h2{
+h3{
 	color: black;
 	margin: 0;
 	padding: 0;
@@ -16,11 +16,16 @@ h2{
 #navbar-header{
 	border-radius: 0;
 	border: 0;
-	background-color: grey;
+	background-color: lightgreen;
 
 }
 .navbar-brand{
 	text-align: left;
+	padding: 15px;
+	color: white;
+	font-size: 1.5em;
+
+
 }
 .navbar-header buttton.navbar-toggle, .icon-bar{
 	color: black;
@@ -35,12 +40,15 @@ h2{
 #nav-list a:hover{
 	background-color: lightgreen;
 }
-div#section{
+.section{
 	background-color: lightgreen;
 	color: maroon;
-	margin-top: 40px;
-	margin-right: 20px; 
-	margin-left: 10px;
+	margin-top: 40px; 
+	margin: 15px;
+	margin-bottom: 20px;
+	margin-right: 35px;
+	padding: 15px;
+	height: 700px;
 }
 li{
 	background-color: white;
@@ -53,4 +61,10 @@ hr{
 }
 #navbar-header{
 	border: 2px solid black;
+}
+.container>.row>div{
+	height: 700px;
+}
+#chicken, #beef{
+	margin-bottom: 20px;
 }
