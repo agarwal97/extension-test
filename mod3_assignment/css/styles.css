@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+}
+h1{
+	color: black;
+	margin-bottom: 10px;
+	padding: 0;
+	vertical-align: center;
+}
+h2{
+	color: black;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 20px;
+}
+#navbar-header{
+	border-radius: 0;
+	border: 0;
+	background-color: grey;
+
+}
+.navbar-brand{
+	text-align: left;
+}
+.navbar-header buttton.navbar-toggle, .icon-bar{
+	color: black;
+	border: 1px solid black;
+}
+#nav-list a{
+	color: black;
+	text-align: center;
+	font-size: 1.5em;
+
+}
+#nav-list a:hover{
+	background-color: lightgreen;
+}
+div#section{
+	background-color: lightgreen;
+	color: maroon;
+	margin-top: 40px;
+	margin-right: 20px; 
+	margin-left: 10px;
+}
+li{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	border: 2px solid black;
+}
+hr{
+	margin: 0;
+}
+#navbar-header{
+	border: 2px solid black;
+}
